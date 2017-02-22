@@ -1,0 +1,4 @@
+print("Hello, World")
+print("Hello, Git")
+print("Cortex-R5F & AM5728")
+print("C6678 DSP")
